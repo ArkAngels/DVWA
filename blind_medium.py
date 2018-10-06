@@ -15,7 +15,7 @@ def clear():
     print "\n"*40
 
 def mainMenu():
-    print "Welcome to Angel's lesson of ezpz DVWA"
+    print "Welcome to <insert name here>'s lesson of ezpz DVWA"
     print "========================================"
     print "1. Get all usernames"
     print "2. Get all passwords"
